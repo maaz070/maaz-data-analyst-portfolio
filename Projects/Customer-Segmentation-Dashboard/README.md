@@ -33,4 +33,5 @@ To analyze and visualize customer demographics, income distribution, and tenure 
 ## 📸 Dashboard Preview
 *(Add your dashboard screenshot here after uploading it to GitHub)*  
 ```markdown
-![Customer Dashboard](Projects/Customer-Segmentation-Dashboard/Screenshot%202025-10-19 041302.png)
+![Customer Dashboard](Screenshot%202025-10-19%20041302.png)
+
